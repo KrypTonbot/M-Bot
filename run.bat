@@ -1,2 +1,0 @@
-node M.js
-pause
